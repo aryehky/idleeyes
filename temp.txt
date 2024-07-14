@@ -1,0 +1,16 @@
+git config --global user.name "aryehky"
+git config --global user.email "kyky0112@gmail.com"
+/Users/kyaryeh/.ssh/id_rsa
+
++---[RSA 4096]----+
+|       o+*B+o+o  |
+|       .o*+.o*o  |
+|      .+oo* ..+  |
+|    E +oo= + + + |
+|     = .S o o * =|
+|    o .  . . = +.|
+|          . o o  |
+|           +     |
+|            .    |
++----[SHA256]-----+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDNeOmq4NoYPHlJQuU5uqpEea6tXT1aY+PVr3BVM54Py49eZBWjGQvUR5+dcD1R2jS7Ag56X9HR7gu+CAP9bq83mgsZ92SKn9rnRxoAW/ZvRDlwe3Nhv6r+bLMykBIgQ3AkIpfIfBGsbTnhVpuegYbqSNTFV6wAstdrYhVUHXd0SC9P3HaWXn59fFDIaofFEcVR6Ar7gymz68Lfz3v1Lmxj1ZOtu5AqtbJAueMoucL6f+7Qz6Jo1p6g/hapEiiglw6sSyNgJHex0r5t+TA9NXX7+1nCSsu65cWuqchE4YBkFi7Td7EXsFm6VY4sEJkQkHVmPhHZRBh7oUTzH3tPSHxuAP8XgsLtO5A1K7MRfZd7KXK+Ts6mITpGaSH/gEeVFj8xT9F1+4yDPH8oVpccGHi5S8vuUdSY5LYeVrluOFKV+GHy5JPCA++NZywo990Fjh9YtztDXJdKtkPEqH9E4fr8vCadsuFNlI3P/pZgdb6lrkdivvG1nyG3Y5fkVsugtI3qegDQ4AQUDMP2EYWZWTcZaOvOfKX4mcahca0N9pAxCnSVCDXVIV+O2vAzYGQahcjGKkmJmOlxOeNd1jpt/BDcFTa7np+XuKtic5sB5MO8SnW6aaVCRhb3a0pLB9/ISnhEUqPfZDAUz6v/3mdRSylQTodd85ED9lBQS9b32ZdB/w== kyky0112@gmail.com
